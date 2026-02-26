@@ -1,0 +1,451 @@
+employee_id,designation,role_category,employment_type,Area,experience_years
+SECL_DIP_1000,Excavator Operator,Critical,Contractual,Dipka,11
+SECL_DIP_1001,Drill Operator,Critical,Contractual,Dipka,19
+SECL_DIP_1002,Shovel Operator,Critical,Contractual,Dipka,20
+SECL_DIP_1003,Helper,Non-Critical,Permanent,Dipka,7
+SECL_DIP_1004,Helper,Non-Critical,Permanent,Dipka,21
+SECL_DIP_1005,Clerk,Non-Critical,Permanent,Dipka,4
+SECL_DIP_1006,Dumper Operator,Critical,Contractual,Dipka,1
+SECL_DIP_1007,HR Executive,Non-Critical,Permanent,Dipka,1
+SECL_DIP_1008,Excavator Operator,Critical,Permanent,Dipka,7
+SECL_DIP_1009,Dumper Operator,Critical,Permanent,Dipka,11
+SECL_DIP_1010,Excavator Operator,Critical,Contractual,Dipka,14
+SECL_DIP_1011,Security Guard,Non-Critical,Permanent,Dipka,22
+SECL_DIP_1012,Dumper Operator,Critical,Permanent,Dipka,25
+SECL_DIP_1013,Drill Operator,Critical,Permanent,Dipka,25
+SECL_DIP_1014,Drill Operator,Critical,Contractual,Dipka,21
+SECL_DIP_1015,Drill Operator,Critical,Contractual,Dipka,11
+SECL_DIP_1016,Dumper Operator,Critical,Permanent,Dipka,14
+SECL_DIP_1017,Dumper Operator,Critical,Permanent,Dipka,17
+SECL_DIP_1018,Drill Operator,Critical,Contractual,Dipka,1
+SECL_DIP_1019,HR Executive,Non-Critical,Permanent,Dipka,5
+SECL_DIP_1020,Drill Operator,Critical,Contractual,Dipka,5
+SECL_DIP_1021,Drill Operator,Critical,Permanent,Dipka,9
+SECL_DIP_1022,Excavator Operator,Critical,Contractual,Dipka,1
+SECL_DIP_1023,Drill Operator,Critical,Contractual,Dipka,6
+SECL_DIP_1024,Security Guard,Non-Critical,Contractual,Dipka,23
+SECL_DIP_1025,Blaster,Critical,Permanent,Dipka,11
+SECL_DIP_1026,Helper,Non-Critical,Contractual,Dipka,5
+SECL_DIP_1027,Helper,Non-Critical,Permanent,Dipka,18
+SECL_DIP_1028,Blaster,Critical,Contractual,Dipka,10
+SECL_DIP_1029,Shovel Operator,Critical,Permanent,Dipka,9
+SECL_DIP_1030,Blaster,Critical,Contractual,Dipka,2
+SECL_DIP_1031,Blaster,Critical,Permanent,Dipka,18
+SECL_DIP_1032,Shovel Operator,Critical,Permanent,Dipka,15
+SECL_DIP_1033,Dumper Operator,Critical,Permanent,Dipka,4
+SECL_DIP_1034,HR Executive,Non-Critical,Permanent,Dipka,21
+SECL_DIP_1035,HR Executive,Non-Critical,Contractual,Dipka,10
+SECL_DIP_1036,Dumper Operator,Critical,Contractual,Dipka,5
+SECL_DIP_1037,Helper,Non-Critical,Contractual,Dipka,21
+SECL_DIP_1038,HR Executive,Non-Critical,Contractual,Dipka,23
+SECL_DIP_1039,Helper,Non-Critical,Permanent,Dipka,25
+SECL_DIP_1040,HR Executive,Non-Critical,Permanent,Dipka,12
+SECL_DIP_1041,Blaster,Critical,Permanent,Dipka,20
+SECL_DIP_1042,Security Guard,Non-Critical,Contractual,Dipka,24
+SECL_DIP_1043,HR Executive,Non-Critical,Permanent,Dipka,4
+SECL_DIP_1044,Drill Operator,Critical,Permanent,Dipka,19
+SECL_DIP_1045,Excavator Operator,Critical,Permanent,Dipka,6
+SECL_DIP_1046,Drill Operator,Critical,Contractual,Dipka,18
+SECL_DIP_1047,Helper,Non-Critical,Contractual,Dipka,17
+SECL_DIP_1048,Shovel Operator,Critical,Contractual,Dipka,8
+SECL_DIP_1049,Shovel Operator,Critical,Contractual,Dipka,16
+SECL_DIP_1050,Blaster,Critical,Contractual,Dipka,17
+SECL_DIP_1051,Dumper Operator,Critical,Contractual,Dipka,13
+SECL_DIP_1052,Shovel Operator,Critical,Contractual,Dipka,9
+SECL_DIP_1053,HR Executive,Non-Critical,Permanent,Dipka,4
+SECL_DIP_1054,Shovel Operator,Critical,Permanent,Dipka,3
+SECL_DIP_1055,Helper,Non-Critical,Permanent,Dipka,3
+SECL_DIP_1056,HR Executive,Non-Critical,Contractual,Dipka,17
+SECL_DIP_1057,Shovel Operator,Critical,Permanent,Dipka,21
+SECL_DIP_1058,Excavator Operator,Critical,Contractual,Dipka,4
+SECL_DIP_1059,Security Guard,Non-Critical,Contractual,Dipka,1
+SECL_DIP_1060,Excavator Operator,Critical,Contractual,Dipka,14
+SECL_DIP_1061,Shovel Operator,Critical,Contractual,Dipka,11
+SECL_DIP_1062,Shovel Operator,Critical,Contractual,Dipka,25
+SECL_DIP_1063,Dumper Operator,Critical,Contractual,Dipka,3
+SECL_DIP_1064,Blaster,Critical,Contractual,Dipka,24
+SECL_DIP_1065,Clerk,Non-Critical,Contractual,Dipka,6
+SECL_DIP_1066,Dumper Operator,Critical,Contractual,Dipka,12
+SECL_DIP_1067,Dumper Operator,Critical,Contractual,Dipka,24
+SECL_DIP_1068,Helper,Non-Critical,Contractual,Dipka,11
+SECL_DIP_1069,Excavator Operator,Critical,Contractual,Dipka,10
+SECL_DIP_1070,Drill Operator,Critical,Contractual,Dipka,20
+SECL_DIP_1071,Blaster,Critical,Contractual,Dipka,10
+SECL_DIP_1072,Drill Operator,Critical,Contractual,Dipka,11
+SECL_DIP_1073,Dumper Operator,Critical,Permanent,Dipka,23
+SECL_DIP_1074,Drill Operator,Critical,Contractual,Dipka,18
+SECL_DIP_1075,Security Guard,Non-Critical,Contractual,Dipka,1
+SECL_DIP_1076,Security Guard,Non-Critical,Contractual,Dipka,18
+SECL_DIP_1077,Dumper Operator,Critical,Contractual,Dipka,1
+SECL_DIP_1078,Blaster,Critical,Contractual,Dipka,23
+SECL_DIP_1079,Excavator Operator,Critical,Permanent,Dipka,1
+SECL_DIP_1080,Dumper Operator,Critical,Contractual,Dipka,5
+SECL_DIP_1081,Blaster,Critical,Contractual,Dipka,16
+SECL_DIP_1082,HR Executive,Non-Critical,Contractual,Dipka,17
+SECL_DIP_1083,Blaster,Critical,Contractual,Dipka,10
+SECL_DIP_1084,Dumper Operator,Critical,Permanent,Dipka,3
+SECL_DIP_1085,Blaster,Critical,Contractual,Dipka,17
+SECL_DIP_1086,Drill Operator,Critical,Contractual,Dipka,20
+SECL_DIP_1087,Drill Operator,Critical,Contractual,Dipka,8
+SECL_DIP_1088,Helper,Non-Critical,Contractual,Dipka,8
+SECL_DIP_1089,Helper,Non-Critical,Permanent,Dipka,18
+SECL_DIP_1090,Blaster,Critical,Contractual,Dipka,6
+SECL_DIP_1091,Security Guard,Non-Critical,Permanent,Dipka,16
+SECL_DIP_1092,Drill Operator,Critical,Contractual,Dipka,5
+SECL_DIP_1093,Drill Operator,Critical,Contractual,Dipka,19
+SECL_DIP_1094,Drill Operator,Critical,Permanent,Dipka,21
+SECL_DIP_1095,Drill Operator,Critical,Permanent,Dipka,10
+SECL_DIP_1096,Blaster,Critical,Contractual,Dipka,24
+SECL_DIP_1097,HR Executive,Non-Critical,Permanent,Dipka,5
+SECL_DIP_1098,Excavator Operator,Critical,Permanent,Dipka,5
+SECL_DIP_1099,Excavator Operator,Critical,Contractual,Dipka,5
+SECL_DIP_1100,Excavator Operator,Critical,Contractual,Dipka,8
+SECL_DIP_1101,Dumper Operator,Critical,Permanent,Dipka,24
+SECL_DIP_1102,Excavator Operator,Critical,Contractual,Dipka,24
+SECL_DIP_1103,Dumper Operator,Critical,Permanent,Dipka,23
+SECL_DIP_1104,Drill Operator,Critical,Contractual,Dipka,20
+SECL_DIP_1105,Security Guard,Non-Critical,Contractual,Dipka,25
+SECL_DIP_1106,Helper,Non-Critical,Contractual,Dipka,20
+SECL_DIP_1107,Shovel Operator,Critical,Permanent,Dipka,2
+SECL_DIP_1108,Excavator Operator,Critical,Permanent,Dipka,15
+SECL_DIP_1109,Shovel Operator,Critical,Contractual,Dipka,25
+SECL_DIP_1110,Shovel Operator,Critical,Contractual,Dipka,7
+SECL_DIP_1111,Helper,Non-Critical,Contractual,Dipka,20
+SECL_DIP_1112,Dumper Operator,Critical,Permanent,Dipka,4
+SECL_DIP_1113,Blaster,Critical,Permanent,Dipka,21
+SECL_DIP_1114,Dumper Operator,Critical,Permanent,Dipka,11
+SECL_DIP_1115,Drill Operator,Critical,Contractual,Dipka,12
+SECL_DIP_1116,Clerk,Non-Critical,Contractual,Dipka,8
+SECL_DIP_1117,Drill Operator,Critical,Contractual,Dipka,19
+SECL_DIP_1118,Drill Operator,Critical,Contractual,Dipka,16
+SECL_DIP_1119,Clerk,Non-Critical,Contractual,Dipka,5
+SECL_DIP_1120,Security Guard,Non-Critical,Contractual,Dipka,1
+SECL_DIP_1121,Dumper Operator,Critical,Contractual,Dipka,17
+SECL_DIP_1122,Dumper Operator,Critical,Permanent,Dipka,23
+SECL_DIP_1123,Dumper Operator,Critical,Contractual,Dipka,21
+SECL_DIP_1124,Drill Operator,Critical,Permanent,Dipka,25
+SECL_DIP_1125,Shovel Operator,Critical,Contractual,Dipka,6
+SECL_DIP_1126,Drill Operator,Critical,Permanent,Dipka,1
+SECL_DIP_1127,Dumper Operator,Critical,Permanent,Dipka,11
+SECL_DIP_1128,Shovel Operator,Critical,Contractual,Dipka,8
+SECL_DIP_1129,Drill Operator,Critical,Permanent,Dipka,5
+SECL_DIP_1130,Drill Operator,Critical,Permanent,Dipka,15
+SECL_DIP_1131,Clerk,Non-Critical,Contractual,Dipka,10
+SECL_DIP_1132,Clerk,Non-Critical,Permanent,Dipka,1
+SECL_DIP_1133,Drill Operator,Critical,Permanent,Dipka,25
+SECL_DIP_1134,Shovel Operator,Critical,Contractual,Dipka,17
+SECL_DIP_1135,Blaster,Critical,Contractual,Dipka,25
+SECL_DIP_1136,Helper,Non-Critical,Permanent,Dipka,11
+SECL_DIP_1137,HR Executive,Non-Critical,Contractual,Dipka,24
+SECL_DIP_1138,Shovel Operator,Critical,Contractual,Dipka,5
+SECL_DIP_1139,Dumper Operator,Critical,Permanent,Dipka,19
+SECL_DIP_1140,Drill Operator,Critical,Contractual,Dipka,20
+SECL_DIP_1141,Clerk,Non-Critical,Contractual,Dipka,4
+SECL_DIP_1142,Shovel Operator,Critical,Permanent,Dipka,23
+SECL_DIP_1143,Drill Operator,Critical,Contractual,Dipka,7
+SECL_DIP_1144,Blaster,Critical,Contractual,Dipka,4
+SECL_DIP_1145,Security Guard,Non-Critical,Permanent,Dipka,9
+SECL_DIP_1146,Drill Operator,Critical,Permanent,Dipka,8
+SECL_DIP_1147,Blaster,Critical,Permanent,Dipka,5
+SECL_DIP_1148,Excavator Operator,Critical,Permanent,Dipka,5
+SECL_DIP_1149,Excavator Operator,Critical,Contractual,Dipka,3
+SECL_KUS_1000,Dumper Operator,Critical,Permanent,Kusmunda,18
+SECL_KUS_1001,Drill Operator,Critical,Contractual,Kusmunda,16
+SECL_KUS_1002,Blaster,Critical,Contractual,Kusmunda,16
+SECL_KUS_1003,Drill Operator,Critical,Permanent,Kusmunda,5
+SECL_KUS_1004,Helper,Non-Critical,Permanent,Kusmunda,7
+SECL_KUS_1005,Dumper Operator,Critical,Contractual,Kusmunda,24
+SECL_KUS_1006,Security Guard,Non-Critical,Permanent,Kusmunda,7
+SECL_KUS_1007,Dumper Operator,Critical,Permanent,Kusmunda,4
+SECL_KUS_1008,Drill Operator,Critical,Contractual,Kusmunda,19
+SECL_KUS_1009,Dumper Operator,Critical,Contractual,Kusmunda,8
+SECL_KUS_1010,Dumper Operator,Critical,Contractual,Kusmunda,6
+SECL_KUS_1011,Blaster,Critical,Permanent,Kusmunda,15
+SECL_KUS_1012,Excavator Operator,Critical,Permanent,Kusmunda,22
+SECL_KUS_1013,Shovel Operator,Critical,Permanent,Kusmunda,17
+SECL_KUS_1014,Clerk,Non-Critical,Permanent,Kusmunda,17
+SECL_KUS_1015,Blaster,Critical,Permanent,Kusmunda,6
+SECL_KUS_1016,Security Guard,Non-Critical,Contractual,Kusmunda,9
+SECL_KUS_1017,HR Executive,Non-Critical,Contractual,Kusmunda,20
+SECL_KUS_1018,Shovel Operator,Critical,Contractual,Kusmunda,1
+SECL_KUS_1019,Dumper Operator,Critical,Contractual,Kusmunda,8
+SECL_KUS_1020,Shovel Operator,Critical,Permanent,Kusmunda,4
+SECL_KUS_1021,Excavator Operator,Critical,Contractual,Kusmunda,11
+SECL_KUS_1022,Drill Operator,Critical,Permanent,Kusmunda,6
+SECL_KUS_1023,Drill Operator,Critical,Permanent,Kusmunda,4
+SECL_KUS_1024,Dumper Operator,Critical,Permanent,Kusmunda,6
+SECL_KUS_1025,Helper,Non-Critical,Permanent,Kusmunda,16
+SECL_KUS_1026,Excavator Operator,Critical,Contractual,Kusmunda,21
+SECL_KUS_1027,Drill Operator,Critical,Permanent,Kusmunda,15
+SECL_KUS_1028,Helper,Non-Critical,Contractual,Kusmunda,11
+SECL_KUS_1029,Drill Operator,Critical,Contractual,Kusmunda,9
+SECL_KUS_1030,Security Guard,Non-Critical,Permanent,Kusmunda,8
+SECL_KUS_1031,Security Guard,Non-Critical,Contractual,Kusmunda,12
+SECL_KUS_1032,Shovel Operator,Critical,Permanent,Kusmunda,9
+SECL_KUS_1033,Blaster,Critical,Permanent,Kusmunda,5
+SECL_KUS_1034,Shovel Operator,Critical,Contractual,Kusmunda,14
+SECL_KUS_1035,Dumper Operator,Critical,Contractual,Kusmunda,15
+SECL_KUS_1036,Excavator Operator,Critical,Permanent,Kusmunda,9
+SECL_KUS_1037,Excavator Operator,Critical,Contractual,Kusmunda,8
+SECL_KUS_1038,Security Guard,Non-Critical,Permanent,Kusmunda,11
+SECL_KUS_1039,Shovel Operator,Critical,Permanent,Kusmunda,24
+SECL_KUS_1040,Helper,Non-Critical,Permanent,Kusmunda,2
+SECL_KUS_1041,Shovel Operator,Critical,Contractual,Kusmunda,23
+SECL_KUS_1042,HR Executive,Non-Critical,Contractual,Kusmunda,10
+SECL_KUS_1043,Helper,Non-Critical,Contractual,Kusmunda,1
+SECL_KUS_1044,Excavator Operator,Critical,Permanent,Kusmunda,12
+SECL_KUS_1045,Drill Operator,Critical,Permanent,Kusmunda,20
+SECL_KUS_1046,Drill Operator,Critical,Contractual,Kusmunda,20
+SECL_KUS_1047,Excavator Operator,Critical,Contractual,Kusmunda,18
+SECL_KUS_1048,Excavator Operator,Critical,Permanent,Kusmunda,25
+SECL_KUS_1049,HR Executive,Non-Critical,Contractual,Kusmunda,4
+SECL_KUS_1050,Helper,Non-Critical,Permanent,Kusmunda,17
+SECL_KUS_1051,Helper,Non-Critical,Contractual,Kusmunda,10
+SECL_KUS_1052,Drill Operator,Critical,Permanent,Kusmunda,17
+SECL_KUS_1053,Blaster,Critical,Contractual,Kusmunda,20
+SECL_KUS_1054,Drill Operator,Critical,Contractual,Kusmunda,24
+SECL_KUS_1055,Shovel Operator,Critical,Contractual,Kusmunda,9
+SECL_KUS_1056,Blaster,Critical,Contractual,Kusmunda,14
+SECL_KUS_1057,Dumper Operator,Critical,Contractual,Kusmunda,8
+SECL_KUS_1058,Security Guard,Non-Critical,Permanent,Kusmunda,4
+SECL_KUS_1059,Shovel Operator,Critical,Contractual,Kusmunda,1
+SECL_KUS_1060,Helper,Non-Critical,Permanent,Kusmunda,7
+SECL_KUS_1061,Blaster,Critical,Permanent,Kusmunda,14
+SECL_KUS_1062,Blaster,Critical,Contractual,Kusmunda,5
+SECL_KUS_1063,Clerk,Non-Critical,Contractual,Kusmunda,22
+SECL_KUS_1064,HR Executive,Non-Critical,Contractual,Kusmunda,14
+SECL_KUS_1065,Shovel Operator,Critical,Contractual,Kusmunda,13
+SECL_KUS_1066,Drill Operator,Critical,Permanent,Kusmunda,6
+SECL_KUS_1067,Excavator Operator,Critical,Contractual,Kusmunda,18
+SECL_KUS_1068,Blaster,Critical,Permanent,Kusmunda,20
+SECL_KUS_1069,Dumper Operator,Critical,Permanent,Kusmunda,25
+SECL_KUS_1070,Shovel Operator,Critical,Contractual,Kusmunda,18
+SECL_KUS_1071,Excavator Operator,Critical,Permanent,Kusmunda,22
+SECL_KUS_1072,Helper,Non-Critical,Permanent,Kusmunda,23
+SECL_KUS_1073,Excavator Operator,Critical,Contractual,Kusmunda,8
+SECL_KUS_1074,Shovel Operator,Critical,Permanent,Kusmunda,16
+SECL_KUS_1075,Drill Operator,Critical,Permanent,Kusmunda,20
+SECL_KUS_1076,HR Executive,Non-Critical,Contractual,Kusmunda,3
+SECL_KUS_1077,Security Guard,Non-Critical,Contractual,Kusmunda,18
+SECL_KUS_1078,HR Executive,Non-Critical,Contractual,Kusmunda,22
+SECL_KUS_1079,HR Executive,Non-Critical,Permanent,Kusmunda,22
+SECL_KUS_1080,Excavator Operator,Critical,Contractual,Kusmunda,4
+SECL_KUS_1081,Clerk,Non-Critical,Contractual,Kusmunda,9
+SECL_KUS_1082,HR Executive,Non-Critical,Contractual,Kusmunda,15
+SECL_KUS_1083,Security Guard,Non-Critical,Contractual,Kusmunda,7
+SECL_KUS_1084,Dumper Operator,Critical,Contractual,Kusmunda,16
+SECL_KUS_1085,Excavator Operator,Critical,Contractual,Kusmunda,25
+SECL_KUS_1086,Excavator Operator,Critical,Permanent,Kusmunda,25
+SECL_KUS_1087,Helper,Non-Critical,Permanent,Kusmunda,21
+SECL_KUS_1088,Excavator Operator,Critical,Permanent,Kusmunda,24
+SECL_KUS_1089,HR Executive,Non-Critical,Permanent,Kusmunda,12
+SECL_KUS_1090,Blaster,Critical,Permanent,Kusmunda,5
+SECL_KUS_1091,Shovel Operator,Critical,Contractual,Kusmunda,2
+SECL_KUS_1092,Blaster,Critical,Permanent,Kusmunda,18
+SECL_KUS_1093,Blaster,Critical,Contractual,Kusmunda,6
+SECL_KUS_1094,Clerk,Non-Critical,Contractual,Kusmunda,4
+SECL_KUS_1095,Helper,Non-Critical,Contractual,Kusmunda,17
+SECL_KUS_1096,HR Executive,Non-Critical,Permanent,Kusmunda,9
+SECL_KUS_1097,Helper,Non-Critical,Contractual,Kusmunda,24
+SECL_KUS_1098,Blaster,Critical,Permanent,Kusmunda,7
+SECL_KUS_1099,Security Guard,Non-Critical,Permanent,Kusmunda,10
+SECL_KUS_1100,Excavator Operator,Critical,Permanent,Kusmunda,7
+SECL_KUS_1101,Excavator Operator,Critical,Permanent,Kusmunda,9
+SECL_KUS_1102,Clerk,Non-Critical,Contractual,Kusmunda,18
+SECL_KUS_1103,Clerk,Non-Critical,Permanent,Kusmunda,12
+SECL_KUS_1104,Shovel Operator,Critical,Permanent,Kusmunda,17
+SECL_KUS_1105,Helper,Non-Critical,Permanent,Kusmunda,11
+SECL_KUS_1106,Blaster,Critical,Permanent,Kusmunda,12
+SECL_KUS_1107,Blaster,Critical,Permanent,Kusmunda,17
+SECL_KUS_1108,Dumper Operator,Critical,Contractual,Kusmunda,17
+SECL_KUS_1109,Dumper Operator,Critical,Contractual,Kusmunda,7
+SECL_KUS_1110,Security Guard,Non-Critical,Permanent,Kusmunda,21
+SECL_KUS_1111,Dumper Operator,Critical,Contractual,Kusmunda,9
+SECL_KUS_1112,Shovel Operator,Critical,Permanent,Kusmunda,5
+SECL_KUS_1113,Blaster,Critical,Permanent,Kusmunda,23
+SECL_KUS_1114,HR Executive,Non-Critical,Contractual,Kusmunda,4
+SECL_KUS_1115,Excavator Operator,Critical,Permanent,Kusmunda,13
+SECL_KUS_1116,Blaster,Critical,Permanent,Kusmunda,11
+SECL_KUS_1117,Helper,Non-Critical,Permanent,Kusmunda,15
+SECL_KUS_1118,Blaster,Critical,Contractual,Kusmunda,3
+SECL_KUS_1119,Blaster,Critical,Permanent,Kusmunda,3
+SECL_KUS_1120,Drill Operator,Critical,Contractual,Kusmunda,11
+SECL_KUS_1121,Dumper Operator,Critical,Contractual,Kusmunda,19
+SECL_KUS_1122,Drill Operator,Critical,Permanent,Kusmunda,25
+SECL_KUS_1123,Excavator Operator,Critical,Permanent,Kusmunda,7
+SECL_KUS_1124,Blaster,Critical,Permanent,Kusmunda,3
+SECL_KUS_1125,Shovel Operator,Critical,Permanent,Kusmunda,9
+SECL_KUS_1126,Dumper Operator,Critical,Contractual,Kusmunda,3
+SECL_KUS_1127,Helper,Non-Critical,Permanent,Kusmunda,19
+SECL_KUS_1128,Blaster,Critical,Permanent,Kusmunda,2
+SECL_KUS_1129,Blaster,Critical,Contractual,Kusmunda,21
+SECL_KUS_1130,Dumper Operator,Critical,Contractual,Kusmunda,20
+SECL_KUS_1131,Clerk,Non-Critical,Permanent,Kusmunda,20
+SECL_KUS_1132,Helper,Non-Critical,Contractual,Kusmunda,24
+SECL_KUS_1133,Shovel Operator,Critical,Contractual,Kusmunda,15
+SECL_KUS_1134,Blaster,Critical,Permanent,Kusmunda,12
+SECL_KUS_1135,Shovel Operator,Critical,Contractual,Kusmunda,17
+SECL_KUS_1136,HR Executive,Non-Critical,Contractual,Kusmunda,24
+SECL_KUS_1137,Blaster,Critical,Contractual,Kusmunda,17
+SECL_KUS_1138,HR Executive,Non-Critical,Permanent,Kusmunda,7
+SECL_KUS_1139,Blaster,Critical,Contractual,Kusmunda,21
+SECL_KUS_1140,HR Executive,Non-Critical,Contractual,Kusmunda,18
+SECL_KUS_1141,Drill Operator,Critical,Contractual,Kusmunda,2
+SECL_KUS_1142,Drill Operator,Critical,Contractual,Kusmunda,13
+SECL_KUS_1143,Blaster,Critical,Permanent,Kusmunda,15
+SECL_KUS_1144,Security Guard,Non-Critical,Permanent,Kusmunda,12
+SECL_KUS_1145,Drill Operator,Critical,Permanent,Kusmunda,2
+SECL_KUS_1146,Shovel Operator,Critical,Permanent,Kusmunda,11
+SECL_KUS_1147,Excavator Operator,Critical,Permanent,Kusmunda,2
+SECL_KUS_1148,Excavator Operator,Critical,Permanent,Kusmunda,22
+SECL_KUS_1149,Helper,Non-Critical,Contractual,Kusmunda,22
+SECL_KOR_1000,HR Executive,Non-Critical,Contractual,Korba,16
+SECL_KOR_1001,Blaster,Critical,Permanent,Korba,3
+SECL_KOR_1002,Drill Operator,Critical,Permanent,Korba,2
+SECL_KOR_1003,Security Guard,Non-Critical,Contractual,Korba,11
+SECL_KOR_1004,Helper,Non-Critical,Permanent,Korba,22
+SECL_KOR_1005,Shovel Operator,Critical,Permanent,Korba,23
+SECL_KOR_1006,Drill Operator,Critical,Permanent,Korba,9
+SECL_KOR_1007,Dumper Operator,Critical,Permanent,Korba,21
+SECL_KOR_1008,Dumper Operator,Critical,Contractual,Korba,1
+SECL_KOR_1009,Shovel Operator,Critical,Permanent,Korba,19
+SECL_KOR_1010,Excavator Operator,Critical,Permanent,Korba,9
+SECL_KOR_1011,Dumper Operator,Critical,Contractual,Korba,25
+SECL_KOR_1012,Clerk,Non-Critical,Contractual,Korba,9
+SECL_KOR_1013,Shovel Operator,Critical,Permanent,Korba,10
+SECL_KOR_1014,Shovel Operator,Critical,Contractual,Korba,16
+SECL_KOR_1015,Drill Operator,Critical,Contractual,Korba,14
+SECL_KOR_1016,Drill Operator,Critical,Contractual,Korba,6
+SECL_KOR_1017,Drill Operator,Critical,Permanent,Korba,9
+SECL_KOR_1018,Dumper Operator,Critical,Permanent,Korba,3
+SECL_KOR_1019,Excavator Operator,Critical,Contractual,Korba,22
+SECL_KOR_1020,Dumper Operator,Critical,Contractual,Korba,20
+SECL_KOR_1021,Security Guard,Non-Critical,Permanent,Korba,10
+SECL_KOR_1022,Blaster,Critical,Permanent,Korba,16
+SECL_KOR_1023,Shovel Operator,Critical,Permanent,Korba,21
+SECL_KOR_1024,Security Guard,Non-Critical,Contractual,Korba,21
+SECL_KOR_1025,Excavator Operator,Critical,Permanent,Korba,4
+SECL_KOR_1026,Blaster,Critical,Contractual,Korba,6
+SECL_KOR_1027,Clerk,Non-Critical,Permanent,Korba,14
+SECL_KOR_1028,Helper,Non-Critical,Contractual,Korba,10
+SECL_KOR_1029,Helper,Non-Critical,Permanent,Korba,24
+SECL_KOR_1030,Dumper Operator,Critical,Permanent,Korba,4
+SECL_KOR_1031,Blaster,Critical,Contractual,Korba,13
+SECL_KOR_1032,Blaster,Critical,Permanent,Korba,13
+SECL_KOR_1033,Drill Operator,Critical,Contractual,Korba,22
+SECL_KOR_1034,Security Guard,Non-Critical,Contractual,Korba,7
+SECL_KOR_1035,Excavator Operator,Critical,Permanent,Korba,12
+SECL_KOR_1036,Clerk,Non-Critical,Contractual,Korba,5
+SECL_KOR_1037,Excavator Operator,Critical,Contractual,Korba,25
+SECL_KOR_1038,Dumper Operator,Critical,Permanent,Korba,22
+SECL_KOR_1039,Shovel Operator,Critical,Contractual,Korba,20
+SECL_KOR_1040,Drill Operator,Critical,Permanent,Korba,11
+SECL_KOR_1041,Clerk,Non-Critical,Contractual,Korba,1
+SECL_KOR_1042,Dumper Operator,Critical,Contractual,Korba,17
+SECL_KOR_1043,Security Guard,Non-Critical,Contractual,Korba,4
+SECL_KOR_1044,HR Executive,Non-Critical,Permanent,Korba,17
+SECL_KOR_1045,Excavator Operator,Critical,Contractual,Korba,17
+SECL_KOR_1046,Drill Operator,Critical,Permanent,Korba,8
+SECL_KOR_1047,Drill Operator,Critical,Contractual,Korba,14
+SECL_KOR_1048,Helper,Non-Critical,Contractual,Korba,6
+SECL_KOR_1049,Dumper Operator,Critical,Contractual,Korba,25
+SECL_KOR_1050,Dumper Operator,Critical,Permanent,Korba,6
+SECL_KOR_1051,Drill Operator,Critical,Contractual,Korba,25
+SECL_KOR_1052,Dumper Operator,Critical,Contractual,Korba,10
+SECL_KOR_1053,HR Executive,Non-Critical,Permanent,Korba,1
+SECL_KOR_1054,Excavator Operator,Critical,Contractual,Korba,7
+SECL_KOR_1055,Drill Operator,Critical,Contractual,Korba,12
+SECL_KOR_1056,Dumper Operator,Critical,Contractual,Korba,18
+SECL_KOR_1057,Excavator Operator,Critical,Permanent,Korba,10
+SECL_KOR_1058,Clerk,Non-Critical,Permanent,Korba,16
+SECL_KOR_1059,Excavator Operator,Critical,Contractual,Korba,21
+SECL_KOR_1060,Dumper Operator,Critical,Permanent,Korba,2
+SECL_KOR_1061,Dumper Operator,Critical,Contractual,Korba,7
+SECL_KOR_1062,Drill Operator,Critical,Contractual,Korba,22
+SECL_KOR_1063,Drill Operator,Critical,Permanent,Korba,2
+SECL_KOR_1064,Shovel Operator,Critical,Permanent,Korba,3
+SECL_KOR_1065,Dumper Operator,Critical,Contractual,Korba,11
+SECL_KOR_1066,Security Guard,Non-Critical,Permanent,Korba,24
+SECL_KOR_1067,Shovel Operator,Critical,Contractual,Korba,15
+SECL_KOR_1068,Dumper Operator,Critical,Permanent,Korba,7
+SECL_KOR_1069,Blaster,Critical,Contractual,Korba,9
+SECL_KOR_1070,Helper,Non-Critical,Contractual,Korba,7
+SECL_KOR_1071,Blaster,Critical,Permanent,Korba,9
+SECL_KOR_1072,Helper,Non-Critical,Permanent,Korba,22
+SECL_KOR_1073,Blaster,Critical,Permanent,Korba,16
+SECL_KOR_1074,Blaster,Critical,Contractual,Korba,21
+SECL_KOR_1075,Excavator Operator,Critical,Permanent,Korba,9
+SECL_KOR_1076,Blaster,Critical,Permanent,Korba,1
+SECL_KOR_1077,Dumper Operator,Critical,Contractual,Korba,17
+SECL_KOR_1078,HR Executive,Non-Critical,Contractual,Korba,10
+SECL_KOR_1079,Clerk,Non-Critical,Contractual,Korba,25
+SECL_KOR_1080,HR Executive,Non-Critical,Permanent,Korba,16
+SECL_KOR_1081,Drill Operator,Critical,Contractual,Korba,24
+SECL_KOR_1082,Excavator Operator,Critical,Contractual,Korba,7
+SECL_KOR_1083,Drill Operator,Critical,Contractual,Korba,25
+SECL_KOR_1084,Dumper Operator,Critical,Permanent,Korba,22
+SECL_KOR_1085,Clerk,Non-Critical,Permanent,Korba,23
+SECL_KOR_1086,Security Guard,Non-Critical,Contractual,Korba,15
+SECL_KOR_1087,Shovel Operator,Critical,Permanent,Korba,13
+SECL_KOR_1088,Shovel Operator,Critical,Permanent,Korba,15
+SECL_KOR_1089,Excavator Operator,Critical,Permanent,Korba,16
+SECL_KOR_1090,HR Executive,Non-Critical,Permanent,Korba,5
+SECL_KOR_1091,Shovel Operator,Critical,Contractual,Korba,5
+SECL_KOR_1092,Dumper Operator,Critical,Permanent,Korba,11
+SECL_KOR_1093,Shovel Operator,Critical,Permanent,Korba,6
+SECL_KOR_1094,HR Executive,Non-Critical,Contractual,Korba,24
+SECL_KOR_1095,Shovel Operator,Critical,Permanent,Korba,13
+SECL_KOR_1096,Drill Operator,Critical,Permanent,Korba,10
+SECL_KOR_1097,Clerk,Non-Critical,Permanent,Korba,20
+SECL_KOR_1098,Drill Operator,Critical,Contractual,Korba,21
+SECL_KOR_1099,Drill Operator,Critical,Contractual,Korba,25
+SECL_KOR_1100,Blaster,Critical,Contractual,Korba,19
+SECL_KOR_1101,Dumper Operator,Critical,Contractual,Korba,6
+SECL_KOR_1102,Dumper Operator,Critical,Contractual,Korba,6
+SECL_KOR_1103,HR Executive,Non-Critical,Contractual,Korba,10
+SECL_KOR_1104,Dumper Operator,Critical,Permanent,Korba,11
+SECL_KOR_1105,Clerk,Non-Critical,Contractual,Korba,24
+SECL_KOR_1106,HR Executive,Non-Critical,Contractual,Korba,24
+SECL_KOR_1107,Clerk,Non-Critical,Permanent,Korba,25
+SECL_KOR_1108,Dumper Operator,Critical,Permanent,Korba,6
+SECL_KOR_1109,Helper,Non-Critical,Contractual,Korba,22
+SECL_KOR_1110,Dumper Operator,Critical,Contractual,Korba,22
+SECL_KOR_1111,Blaster,Critical,Contractual,Korba,4
+SECL_KOR_1112,Helper,Non-Critical,Contractual,Korba,8
+SECL_KOR_1113,Security Guard,Non-Critical,Contractual,Korba,23
+SECL_KOR_1114,HR Executive,Non-Critical,Contractual,Korba,5
+SECL_KOR_1115,Security Guard,Non-Critical,Contractual,Korba,14
+SECL_KOR_1116,Blaster,Critical,Permanent,Korba,11
+SECL_KOR_1117,Drill Operator,Critical,Permanent,Korba,10
+SECL_KOR_1118,Dumper Operator,Critical,Permanent,Korba,1
+SECL_KOR_1119,Clerk,Non-Critical,Permanent,Korba,22
+SECL_KOR_1120,Helper,Non-Critical,Contractual,Korba,23
+SECL_KOR_1121,Dumper Operator,Critical,Permanent,Korba,14
+SECL_KOR_1122,Dumper Operator,Critical,Permanent,Korba,24
+SECL_KOR_1123,Blaster,Critical,Contractual,Korba,15
+SECL_KOR_1124,Blaster,Critical,Permanent,Korba,4
+SECL_KOR_1125,Blaster,Critical,Permanent,Korba,5
+SECL_KOR_1126,Drill Operator,Critical,Contractual,Korba,8
+SECL_KOR_1127,Dumper Operator,Critical,Contractual,Korba,16
+SECL_KOR_1128,Drill Operator,Critical,Permanent,Korba,18
+SECL_KOR_1129,Security Guard,Non-Critical,Permanent,Korba,19
+SECL_KOR_1130,Dumper Operator,Critical,Permanent,Korba,8
+SECL_KOR_1131,Clerk,Non-Critical,Contractual,Korba,7
+SECL_KOR_1132,Shovel Operator,Critical,Permanent,Korba,8
+SECL_KOR_1133,Dumper Operator,Critical,Permanent,Korba,14
+SECL_KOR_1134,HR Executive,Non-Critical,Contractual,Korba,5
+SECL_KOR_1135,Excavator Operator,Critical,Permanent,Korba,11
+SECL_KOR_1136,HR Executive,Non-Critical,Permanent,Korba,19
+SECL_KOR_1137,Excavator Operator,Critical,Permanent,Korba,19
+SECL_KOR_1138,Shovel Operator,Critical,Permanent,Korba,14
+SECL_KOR_1139,Drill Operator,Critical,Permanent,Korba,21
+SECL_KOR_1140,Dumper Operator,Critical,Contractual,Korba,23
+SECL_KOR_1141,Blaster,Critical,Permanent,Korba,17
+SECL_KOR_1142,Dumper Operator,Critical,Contractual,Korba,24
+SECL_KOR_1143,Blaster,Critical,Permanent,Korba,7
+SECL_KOR_1144,Blaster,Critical,Permanent,Korba,21
+SECL_KOR_1145,Dumper Operator,Critical,Permanent,Korba,15
+SECL_KOR_1146,Dumper Operator,Critical,Permanent,Korba,6
+SECL_KOR_1147,Drill Operator,Critical,Permanent,Korba,4
+SECL_KOR_1148,Excavator Operator,Critical,Permanent,Korba,23
+SECL_KOR_1149,Blaster,Critical,Permanent,Korba,6
