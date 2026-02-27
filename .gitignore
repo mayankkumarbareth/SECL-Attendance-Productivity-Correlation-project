@@ -1,0 +1,11 @@
+# Conda environments
+.conda/
+
+# Visual Studio files
+.vs/
+
+# Python virtual environments
+venv/
+
+# Nested project directory
+SECL-Attendance-Productivity-Correlation-project/
