@@ -31,7 +31,7 @@ Critical Staff Tipping Point72%Production collapses if the Critical/Total staff 
 Shift EfficiencyDipkaHighest profit margin (85%) and attendance stability.
 Target Anomaly232%Targets are currently too conservative; need +50% adjustment.
 
-📺 Power BI Dashboard HighlightsThe dashboard serves four distinct internal audiences:
+# 📺 Power BI Dashboard HighlightsThe dashboard serves four distinct internal audiences:
 
 Executive: High-level P&L and Tonnage trends.Operations: Real-time shift monitoring & "What-If" parameter sliders.HR: Absenteeism heatmaps and "Critical Role" impact tracking.Finance: Cost-per-tonne analysis and revenue leakage reports.
 
