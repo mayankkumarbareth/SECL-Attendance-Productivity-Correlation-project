@@ -1,5 +1,7 @@
 📊  SECL Analytics Project
 Attendance & Productivity Correlation Analysis
+
+
 ⛏️ SECL Attendance & Productivity Intelligence (SAPI)End-to-End Analytics Pipeline:
 
 Quantifying Workforce Impact on Coal ProductionOrganization: South Eastern Coalfields Limited (SECL), Ministry of Coal, Govt. of IndiaScope: 3 Major Mining Areas (Korba, Kusmunda, Dipka) | 13,140 Shift RecordsRole: Data Analytics Intern (Bilaspur, CG)
